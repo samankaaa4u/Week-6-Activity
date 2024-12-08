@@ -1,4 +1,6 @@
 P.S Task 1 and 2 is done as I have github since 2022.
+To see the video: click this link: https://youtu.be/Kwfeg-lfYWQ
+
 HOW TO CONNECT GITHUB TO GIT 
 1.	git config --global user.email "email @email.com"
 2.	git config --global user.name "Sam Señolay"
